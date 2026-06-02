@@ -8,7 +8,7 @@ title: 招聘雷达 | 最新内推与求职咨询库
   <h1 style="margin-top: 0;">🚀 欢迎来到工作咨询发布</h1>
   <p style="font-size: 16px; color: #555;">每日更新最新求职信息。</p>
   <div style="margin-top: 20px;">
-    <a href="#latest-jobs" style="padding: 10px 24px; background-color: #007bff; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; margin-right: 15px;">🔍 查看最新岗位</a>
+    <a href="#latest-jobs" style="padding: 10px 24px; background-color: #007bff; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; margin-right: 15px;">🔍 查看最新岗位 </a>
     <a href="#services" style="padding: 10px 24px; background-color: #28a745; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">💬 预约 1v1 咨询</a>
   </div>
 </div>
