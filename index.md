@@ -6,7 +6,7 @@ title: 招聘雷达 | 最新内推与求职咨询库
 <!-- 首页横幅区 (Hero Section) -->
 <div align="center" style="padding: 40px 20px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 12px; margin-bottom: 30px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
   <h1 style="margin-top: 0;">🚀 欢迎来到工作咨询发布</h1>
-  <p style="font-size: 16px; color: #555;">每日更新最新求职信息。</p>
+  <p style="font-size: 16px; color: #555;">定期更新最新求职信息。</p>
   <div style="margin-top: 20px;">
     <a href="#latest-jobs" style="padding: 10px 24px; background-color: #007bff; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; margin-right: 15px;">🔍 查看最新岗位</a>
     <a href="#services" style="padding: 10px 24px; background-color: #28a745; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">💬 预约 1v1 咨询</a>
@@ -18,7 +18,7 @@ title: 招聘雷达 | 最新内推与求职咨询库
 
 ---
 
-<h2 id="latest-jobs">📢 最新内推岗位 (每日更新)</h2>
+<h2 id="latest-jobs">📢 最新内推岗位 (定期更新)</h2>
 
 |行业| 岗位名称 & 快速链接 | 招聘公司 | 工作地点 | 联系方式 | 适合人群| 更新时间 |
 | --- | --- | --- | --- | --- |  --- | --- |
@@ -53,7 +53,7 @@ title: 招聘雷达 | 最新内推与求职咨询库
 ----
 
 
-<h2 id="latest-jobs">👉 具体说明 (每日更新)</h2>
+<h2 id="latest-jobs">👉 具体说明 (定期更新)</h2>
 
 # 政务客服
 ### 基础信息
@@ -346,7 +346,7 @@ title: 招聘雷达 | 最新内推与求职咨询库
 - 具体介绍：优点：比较轻松，管理不严，一天八小时，六天一休。缺点：赚钱不多，宿舍环境一般，周围没有青年旅店
 - 入职门槛：有的项目需要大专学历，很多都是不要的
 ### 岗位观察
-- 主要风险：需要准备一个帘子，防止其他人偷窥
+- 主要风险：暂无
 - 适合人群：有的岗位需要大专学历以上
 
 ### 验证反馈
@@ -440,8 +440,7 @@ title: 招聘雷达 | 最新内推与求职咨询库
 - 具体介绍：工作时间固定，每天十小时，上六天班，工作内容比较枯燥
 - 缺点：换季或者上级检查需要加班
 ### 岗位观察
-- 有浓酸浓碱等强腐蚀性药剂，操作时要规范操作注意安全
-
+- 主要风险：有浓酸浓碱等强腐蚀性药剂，操作时要规范操作
 
 ### 验证反馈
 - 信息来源：工友内推
@@ -463,7 +462,6 @@ title: 招聘雷达 | 最新内推与求职咨询库
 - 具体介绍：岗位轮转，部分科室闲，上手无难度，主要任务是指引、帮助患者挂号等
 - 缺点：在市中心生活成本高，到了人流量大的科室就很累，属于劳务派遣
 ### 岗位观察
-- 基本无安全隐患，
 - 戴好口罩防止流行病传染
 
 ### 验证反馈
