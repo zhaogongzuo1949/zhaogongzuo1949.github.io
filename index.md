@@ -4,26 +4,25 @@ title: 招聘雷达 | 最新内推与求职咨询库
 ---
 
 <!-- 首页横幅区 (Hero Section) -->
-<div align="center" style="padding: 40px 20px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 12px; margin-bottom: 30px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);">
-  <h1 style="margin-top: 0;">🚀 欢迎来到工作咨询发布</h1>
-  <p style="font-size: 16px; color: #555;">定期更新最新求职信息。</p>
-  <div style="margin-top: 20px;">
-    <a href="#latest-jobs" style="padding: 10px 24px; background-color: #007bff; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; margin-right: 15px;">🔍 查看最新岗位</a>
-    <a href="#services" style="padding: 10px 24px; background-color: #28a745; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">💬 预约 1v1 咨询</a>
-  </div>
+<div align="center" style="padding: 40px 20px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 12px; margin-bottom: 30px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);"> 
+  <h1 style="margin-top: 0;">🚀 欢迎来到工作咨询发布</h1> 
+  <p style="font-size: 16px; color: #555;">定期更新最新求职信息。</p> 
+  <div style="margin-top: 20px;"> 
+    <a href="#latest-jobs" style="padding: 10px 24px; background-color: #007bff; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; margin-right: 15px;">🔍 查看最新岗位</a> 
+    <a href="#services" style="padding: 10px 24px; background-color: #28a745; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">💬 预约 1v1 咨询</a> 
+  </div> 
 </div>
 
-# 🎯 快速导航
-👉 **[🔥 AAAA](#)** | **[🏛️ BBB](#)** | **[🎓 CCC](#)** | **[💼 DDD](#)**
+# 🎯 快速导航 
+👉 **[🔥 AAAA](#)** | **[🏛️ BBB](#)** | **[🎓 CCC](#)** | **[💼 DDD](#)** 
 
 ---
 
-## 📢 最新内推岗位 (定期更新)
-{: #latest-jobs }
+<h2 id="latest-jobs">📢 最新内推岗位 (定期更新)</h2>
 
-|行业| 岗位名称 & 快速链接 | 招聘公司 | 工作地点 | 联系方式 | 适合人群| 更新时间 |
-| --- | --- | --- | --- | --- | --- | --- |
-| **政务客服**|**[政务客服](#政务客服)** |深圳杰之龙通讯技术有限公司 |深圳市益田（实习期在这里）|微信：wxid_adwi52bgo43v52 电话：13163779776| 没有特定门槛 新人需要从头学起 | 2026-06-08 |
+| 行业 | 岗位名称 & 快速链接 | 招聘公司 | 工作地点 | 联系方式 | 适合人群 | 更新时间 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **政务客服** | **[政务客服](#政务客服)** | 深圳杰之龙通讯技术有限公司 | 深圳市益田（实习期在这里） | 微信：wxid_adwi52bgo43v52 电话：13163779776 | 没有特定门槛 新人需要从头学起 | 2026-06-08 |
 | **冶金**|**[现场设备维护（工作环境恶劣）；职能岗位（现场工作大概3年后会调到职能岗）；工程师（多为跟踪项目，需要长期出差并且比较辛苦）](#冶金)** |宝武装备智能科技有限公司 |上海市宝山区（实际上因为是乙方公司，上海市的只是职能岗，绝大多数需要现场维护跟着项目跑，并且长期外派）|hr苏晓君女士，微信号：a40013092 | 一般需要本科应届生 | 2026-06-08 |
 | **教培（k12）**|**[年级主班老师](#年级主班老师)** |学之家中小学生校外托管服务有限公司 |安徽省阜阳市 |温女士 15955569911 | 最好有对应学段的教师资格证（小机构无需） | 2026-06-09 |
 | **能源行业**|**[信息管培生，安全员，人事，企管，自动化管培生，电气化工程师](#信息管培生，安全员，人事，企管，自动化管培生，电气化工程师)** |山东兴盛矿业有效责任公司 |山东临沂沂水县 |胡女士15863858337（同微）张女士13884736100（同微）| 无门槛，有岗位相关专业经验更好 | 2026-06-09 |
